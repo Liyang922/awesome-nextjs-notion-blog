@@ -28,9 +28,9 @@ export default class MyDocument extends Document {
               }}
             />
 
-            <link rel='shortcut icon' href='/favicon.png' />
+            {/* <link rel='shortcut icon' href='/favicon.png' /> */}
 
-            <link
+            {/* <link
               rel='apple-touch-icon'
               sizes='180x180'
               href='/apple-touch-icon.png'
@@ -52,7 +52,7 @@ export default class MyDocument extends Document {
               type='image/png'
               sizes='16x16'
               href='/favicon-16x16.png'
-            />
+            /> */}
 
             <link rel='manifest' href='/manifest.json' />
           </Head>
